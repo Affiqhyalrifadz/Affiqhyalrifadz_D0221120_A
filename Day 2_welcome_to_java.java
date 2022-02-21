@@ -1,4 +1,4 @@
-# Affiqhyalrifadz_D0221120_A day3_welcome_to_javaimport java .
+# day3 Affiqhyalrifadz_D0221120_A day3_welcome_to_javaimport java .
   import java.util.*;
 
 public class day3_Java_if_else{
