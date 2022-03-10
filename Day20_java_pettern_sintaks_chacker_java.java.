@@ -1,0 +1,10 @@
+# Affiqhyalrifadz_D0221120_Atry{
+                Pattern.compile(PatternIn);
+                System.out.println("Valid");
+            }catch(PatternSyntaxException ex){
+                System.out.println("Invalid");
+              }
+              testCases--;
+		}
+	}
+}
